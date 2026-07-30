@@ -988,7 +988,8 @@ echo "The for loop is completed“
 ```
 ## OUTPUT
 
-<img width="940" height="192" alt="image" src="https://github.com/user-attachments/assets/2b36707e-3542-42e9-9acf-a8f48aa405b3" />
+<img width="900" height="743" alt="image" src="https://github.com/user-attachments/assets/3fbe1890-5d56-44d4-b2f6-ee734e927fd7" />
+
 
 
 $ chmod 755 forbreak.sh
@@ -1031,8 +1032,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
-<img width="940" height="118" alt="image" src="https://github.com/user-attachments/assets/86818e8d-5897-4731-b176-bde31bab7189" />
-
+<img width="1661" height="657" alt="image" src="https://github.com/user-attachments/assets/501afa09-38fa-48e3-b55e-f52d446f2cfb" />
 
  cat exread1.sh
 ```bash
@@ -1066,7 +1066,7 @@ fi
 ```
 ## OUTPUT
 
-<img width="966" height="214" alt="image" src="https://github.com/user-attachments/assets/021a3267-ba17-4424-a06b-e48b00560f51" />
+<img width="1482" height="657" alt="image" src="https://github.com/user-attachments/assets/02737424-90f4-4084-ac41-fec8fa4c0acb" />
 
  ./funcex.sh 
 
@@ -1085,8 +1085,8 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+<img width="1446" height="313" alt="image" src="https://github.com/user-attachments/assets/e71c520d-bcc7-4547-93b8-0e2210e1bc4f" />
 
-<img width="940" height="48" alt="image" src="https://github.com/user-attachments/assets/380f7da5-97a7-4ac9-bcb5-4212566a3896" />
 
 $ ./argshift.sh 1 2 3
  
@@ -1119,7 +1119,8 @@ set +x
 ```
 ## OUTPUT
 
-<img width="940" height="148" alt="image" src="https://github.com/user-attachments/assets/da72295e-c67d-40da-8c36-209d3ee10d9d" />
+<img width="1075" height="797" alt="image" src="https://github.com/user-attachments/assets/a3a47d3d-6abd-4073-82ad-028b6a84fc61" />
+
 
  ./argshift.sh 1 2 3
  
@@ -1153,7 +1154,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- <img width="940" height="148" alt="image" src="https://github.com/user-attachments/assets/03467c61-5f9e-4316-9735-bf82e77809f1" />
+<img width="1148" height="813" alt="image" src="https://github.com/user-attachments/assets/44e432ea-0bbb-4a8a-8c81-27eb54923249" />
+
 
 cat > palindrome.sh
 ```bash
@@ -1181,7 +1183,7 @@ else
 fi
 ```
 ## OUTPUT
-<img width="940" height="343" alt="image" src="https://github.com/user-attachments/assets/5b794817-8779-43f2-9c0e-ee0be087b537" />
+<img width="1063" height="811" alt="image" src="https://github.com/user-attachments/assets/7b83f335-0ff5-45ab-adba-71fff3dbe55b" />
 
 
 
