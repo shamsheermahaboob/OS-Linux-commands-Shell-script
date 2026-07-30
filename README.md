@@ -525,8 +525,8 @@ abcd
  
 echo $?
  ## OUTPUT
+<img width="1612" height="802" alt="image" src="https://github.com/user-attachments/assets/ba6d21bd-77b5-4bc6-9839-588dd943007e" />
 
-<img width="940" height="112" alt="image" src="https://github.com/user-attachments/assets/b01b8df4-3c8f-4068-948b-6af5366e290f" />
 
 
 
@@ -561,7 +561,7 @@ fi
 ```
 ##OUTPUT
 
-<img width="940" height="26" alt="image" src="https://github.com/user-attachments/assets/85a23916-bf85-4f66-b2bd-5192cb762b6c" />
+<img width="1323" height="842" alt="image" src="https://github.com/user-attachments/assets/475a55b5-0e22-404b-a786-fa6edd5a1655" />
 
 
 
@@ -570,7 +570,8 @@ chmod 755 strcomp.sh
 ./strcomp.sh 
 ## OUTPUT
 
-<img width="940" height="117" alt="image" src="https://github.com/user-attachments/assets/0353d9e8-1144-4148-bb59-b39407f5c903" />
+<img width="1565" height="386" alt="image" src="https://github.com/user-attachments/assets/9bfe2413-25ee-49fc-8f2b-13bc0a2a7570" />
+
 
 
 
@@ -928,7 +929,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
-<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/232fc0f4-e4cc-406e-b203-4a21f1c177d5" />
+<img width="1682" height="782" alt="image" src="https://github.com/user-attachments/assets/34ff6c9d-fcee-4ec8-8545-3842e3f1f2b6" />
 
 
 cat forctype1.sh 
@@ -944,7 +945,8 @@ $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
 
-<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/c6ba51e0-d396-4926-958a-5bcb9a6d6e68" />
+<img width="1867" height="602" alt="image" src="https://github.com/user-attachments/assets/739df350-c420-4986-8f9d-23e43ac197eb" />
+
 
 
 cat fornested1.sh 
@@ -965,7 +967,8 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
-<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/a8daae92-738e-4f0d-8870-88035e5a4493" />
+<img width="1395" height="827" alt="image" src="https://github.com/user-attachments/assets/b7740174-27a1-4bfa-9f57-31ebc91e9893" />
+
 
 
  
